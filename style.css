@@ -168,6 +168,40 @@
 .footer p {
     font-size: 20px;
 }
+.form-box {
+    width: 900px;
+    height: 200px;
+    background-color: rgba(232, 201, 201, 0.531);
+    width: 50%;
+   margin-left: 25%;
+   margin-right: 25%;
+   margin-top: 3%;
+}
+.form-button {
+   margin-left: 50%;
+   padding: 75px;
+  
+   
+   
+}
+.form-button input{
+    font-size: 20px;
+    width: 300px;
+    height: 50px;
+    margin-left: -200px;
+}
+.form-button a {
+    font-size: 20px;
+    text-decoration: none;
+    background-color: red;
+    padding: 17px 40px; 
+    color: white;
+    font-size: 23px;
+    margin-left: -15px;
+}
+.fifth-section {
+    margin-bottom: 100px;
+}
 
 
 
