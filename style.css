@@ -212,8 +212,29 @@
     font-size: 23px;
     margin-left: -15px;
 }
+
+.fourth-section {
+    margin-bottom: 200px;
+}
 .fifth-section {
     margin-bottom: 100px;
+}
+.fourth-section h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.fourth-section p {
+    font-size: 20px;
+   
+    
+}
+.Our-goals {
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 
