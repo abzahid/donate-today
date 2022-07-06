@@ -1,0 +1,45 @@
+.body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.ist-section {
+    background-image: url(images/donation13.jpg);
+    height: 109vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 150px;
+    
+    
+}
+.ist-section h1 {
+    font-size: 80px;
+    color: white;
+    margin: 10px;
+}
+
+.ist-section p {
+ font-size: 30px;
+ color: white;
+ margin: 0;
+
+}
+ .ist-section a {
+    background-color: orangered;
+    padding: 20px 40px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+ }
+
+.help-those {
+    top:50%;
+    left:50%;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    position:relative;
+}  
+.button {
+    padding: 60px;
+    
+}
